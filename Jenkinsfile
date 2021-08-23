@@ -1,7 +1,7 @@
 node{
 stage('test stage'){
 
-        echo "change"
+        echo "change 1"
 
 }
 stage('Build Project'){
