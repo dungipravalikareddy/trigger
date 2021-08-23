@@ -4,7 +4,7 @@ stage('test stage'){
         echo "change"
 
 }
-stage('Build Project 1'){
+stage('Build Project '){
 
         echo "building the application"
       
